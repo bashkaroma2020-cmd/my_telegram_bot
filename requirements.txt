@@ -1,1 +1,4 @@
-text aiogram==3.13.1 moviepy==1.0.3 
+aiogram>=3.0.0
+asyncpg
+pydantic
+
